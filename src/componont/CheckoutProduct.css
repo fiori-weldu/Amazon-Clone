@@ -1,0 +1,19 @@
+.CheckoutProduct{
+    display: flex;
+}
+.CheckoutProduct .product_info{
+    padding: 15px;
+    width: 30%;
+}
+.CheckoutProduct img{
+    height: 200px;
+}
+.CheckoutProduct button{
+    /* background-color: #f0c14b; */
+    width: 150px;
+    margin: auto;
+    border: black;
+    padding: 2px;
+    margin-top: 5px;
+    height: 20px;
+}
